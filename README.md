@@ -1,7 +1,7 @@
 # NinjaCrackV2
 
 v1: https://github.com/ex-ref/NinjaCrack/.<br />
-After taking down resource.php, putting it up as resource.php, pushing a new loader with some more anti-debug and vmping it. It still gets cracked.<br />
+After taking down resource.php, putting it up as resource8.php, pushing a new loader with some more anti-debug and vmping it. It still gets cracked.<br />
 Isolated from the server once again, should work until next game update.<br />
 
 __Instructions__<br />
